@@ -1,2 +1,2 @@
 ## Camajero
-My operating system made with the C programming language.
+A operating system made with the C programming language.
