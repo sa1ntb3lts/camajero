@@ -1,2 +1,2 @@
 ## Camajero
-A operating system made with the C programming language.
+An operating system made with the C programming language.
